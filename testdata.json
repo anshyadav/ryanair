@@ -1,0 +1,10 @@
+[{
+  "origin_country": "Dublin",
+  "destination_country": "Barcelona",
+  "departure_date": "07-07-2020",
+  "return_date": "14-07-2020",
+  "adults": 2,
+  "children": 1,
+  "phone_number": "892044874",
+  "transaction_error_message": "Transaction could not be processed."
+}]
