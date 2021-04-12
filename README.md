@@ -3,7 +3,6 @@
 
 'Ryanair Automation Framework' is UI autoamtion framework. This is ready to deploy for the Ryanair and easily customizable for the multi-pages web apps. The implementation strives to be simple and free of unnecessary dependencies.
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 ## Programming Languages
