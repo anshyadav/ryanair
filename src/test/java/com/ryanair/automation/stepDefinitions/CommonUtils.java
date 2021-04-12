@@ -1,4 +1,4 @@
-package stepDefinitions;
+package com.ryanair.automation.stepDefinitions;
 
 import java.net.URL;
 import java.util.concurrent.TimeUnit;

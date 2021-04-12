@@ -1,9 +1,9 @@
 package com.ryanair.automation.webpages.functions;
 
 import org.openqa.selenium.WebDriver;
-import com.ryanair.automation.webpages.elements.OverviewPageElements;
 
-import stepDefinitions.CommonUtils;
+import com.ryanair.automation.stepDefinitions.CommonUtils;
+import com.ryanair.automation.webpages.elements.OverviewPageElements;
 
 
 public class OverviewPageFunctions {

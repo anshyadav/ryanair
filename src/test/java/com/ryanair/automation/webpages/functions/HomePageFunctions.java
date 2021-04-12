@@ -4,8 +4,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
+
+import com.ryanair.automation.stepDefinitions.CommonUtils;
 import com.ryanair.automation.webpages.elements.HomePageElements;
-import stepDefinitions.CommonUtils;
 
 public class HomePageFunctions extends HomePageElements {
 

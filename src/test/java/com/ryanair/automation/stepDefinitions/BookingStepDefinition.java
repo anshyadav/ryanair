@@ -1,7 +1,6 @@
-package stepDefinitions;
+package com.ryanair.automation.stepDefinitions;
 
 import static org.junit.Assert.fail;
-import com.ryanair.automation.base.BaseClass;
 import com.ryanair.automation.utils.UtilityLibrary;
 import com.ryanair.automation.webpages.functions.FlightsPageFunctions;
 import com.ryanair.automation.webpages.functions.HomePageFunctions;
@@ -9,7 +8,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class BookingStepDefinition extends BaseClass {
+public class BookingStepDefinition {
 
 	UtilityLibrary utilLib;
 	HomePageFunctions hompage;

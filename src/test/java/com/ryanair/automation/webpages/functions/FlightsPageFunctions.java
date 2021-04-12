@@ -6,9 +6,10 @@ import org.junit.Assert;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
+
+import com.ryanair.automation.stepDefinitions.CommonUtils;
 import com.ryanair.automation.utils.TestDataReader;
 import com.ryanair.automation.webpages.elements.FlightsPageElements;
-import stepDefinitions.CommonUtils;
 
 /**
  * This page contains the methods and operations that can be performed on the
